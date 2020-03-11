@@ -1,6 +1,5 @@
-# statweb
-
-> My well-made Nuxt.js project
+# Nuxt-Dad-Jokes
+A simple server rendered app displaying random dad jokes
 
 ## Build Setup
 
